@@ -1,11 +1,13 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&background=131313D7&center=true&vCenter=true&width=1000&height=40&lines=Hi+I'm+Nessibeli+👋" alt="Typing SVG" /></a>
-  <br><br>
+
+ ### Hi there 👋
+
+## I'm Nessibeli.
+<br><br>
   Добро пожаловать на мой профиль! Меня зовут Несибели, я бэкенд разработчик на Golang, прошла обучение в Alem School. Спасибо, что посетили мою страницу, буду рада <a href="https://www.linkedin.com/in/nessibeli-yeltay-b36614bb/" target="_blank">законнектиться</a>!
   
 
   #### Backend Software Developer (Golang Enthusiast)
-</div>
+
 
 
 ## 🛠️ Tech Stack
@@ -22,19 +24,13 @@
 - **[Groupie-tracker](https://github.com/NessibeliY/Groupie-tracker)**: В этом проекте я написала сервер, который делает запросы на Restful API о музыкальных группах и отображает эту информацию в моем веб-приложении.
 - **[More Projects](https://github.com/NessibeliY?tab=repositories)**: Посмотрите еще мои работы.
 
-## 📈 LeetCode Stats
+## 📈 LeetCode & GitHub Stats
 
 <div align="center">
   <a href="https://leetcode.com/nessibeli/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/nessibeli?theme=nord" alt="LeetCode stats" />
+    <img src="https://leetcard.jacoblin.cool/nessibeli?theme=nord" alt="LeetCode stats" style="height: 180px;"/>
   </a>
-</div>
-
-## 📈 Github Stats
-
-<div align="center">
-  <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NessibeliY&layout=donut&theme=nord"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NessibeliY&layout=donut&theme=nord" style="height: 180px;"/>
 </div>
 
 ## 📫 Contact Me
